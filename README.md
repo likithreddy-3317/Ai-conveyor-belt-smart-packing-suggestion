@@ -2,7 +2,7 @@
 
 ## Product Requirements and Engineering Roadmap
 
-**Project type:** Fifth-semester academic engineering prototype\
+**Project type:** Fourth-semester academic engineering prototype\
 **Owner:** Likith Reddy\
 **Repository name:** `ai-conveyor-belt-quality-monitoring`\
 **Status:** Existing prototype under review; requirements below are a
